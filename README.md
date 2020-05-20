@@ -20,7 +20,7 @@ Com o intuito de familiarização com o objetivo e as ferramentas necessárias p
 O tutorial completo pode ser encontrado no link:
 https://codelabs.developers.google.com/codelabs/model-viewer/index.html?index=..%2F..index#0
 
-![](https://imgur.com/0wNLbfA "Sci Fi Helmet")
+![](https://imgur.com/0wNLbfA.png)
 
 # Silloth plate
 
