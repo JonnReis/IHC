@@ -20,8 +20,6 @@ Com o intuito de familiarização com o objetivo e as ferramentas necessárias p
 O tutorial completo pode ser encontrado no link:
 https://codelabs.developers.google.com/codelabs/model-viewer/index.html?index=..%2F..index#0
 
-Veja o modelo Helmet ao vivo no Glitch: https://testeihc.glitch.me
-
 # Silloth plate
 
 Usamos um modelo 3D de uma placa de soleira desmontada. Neste modelo serão feitas as interações para que o usuário possa escolher qual componente montar, onde montar e a ordem a ser montada.
