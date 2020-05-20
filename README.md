@@ -20,7 +20,7 @@ Com o intuito de familiarização com o objetivo e as ferramentas necessárias p
 O tutorial completo pode ser encontrado no link:
 https://codelabs.developers.google.com/codelabs/model-viewer/index.html?index=..%2F..index#0
 
-![](https://imgur.com/0wNLbfA.png"Sci Fi Helmet")
+![](https://imgur.com/0wNLbfA.png "Sci Fi Helmet")
 
 # Silloth plate
 
@@ -30,7 +30,7 @@ O modelo pode ser encontrado no sketchfab através do endereço - https://sketch
 
 Veja o modelo Silloth plate ao vivo no Glitch: https://ihc-helmet.glitch.me
 
-![](https://imgur.com/F7tRuwU.png"Silloth Plate")
+![](https://imgur.com/F7tRuwU.png "Silloth Plate")
 
 # `<model-viewer>` codelab
 
