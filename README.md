@@ -23,17 +23,6 @@ https://codelabs.developers.google.com/codelabs/model-viewer/index.html?index=..
 ### Sci Fi Helmet
 ![](https://imgur.com/0wNLbfA.png)
 
-## Silloth plate
-
-Usamos um modelo 3D de uma placa de soleira desmontada. Neste modelo serão feitas as interações para que o usuário possa escolher qual componente montar, onde montar e a ordem a ser montada.
-
-O modelo pode ser encontrado no sketchfab através do endereço - https://sketchfab.com/3d-models/silloth-plate-oct-2019-exploded-9ea83572eb24460381c6100f9458e774
-
-Veja o modelo Silloth plate ao vivo no Glitch: https://ihc-helmet.glitch.me
-
-### Silloth Plate
-![](https://imgur.com/F7tRuwU.png)
-
 ## `<model-viewer>` codelab
 
 This is the starting template for a codelab giving a brief introduction to
@@ -52,3 +41,14 @@ available on sites like [Poly](https://poly.google.com) and
 ## Notes
 
 This is not an officially supported Google product.
+
+## Silloth plate
+
+Usamos um modelo 3D de uma placa de soleira desmontada. Neste modelo serão feitas as interações para que o usuário possa escolher qual componente montar, onde montar e a ordem a ser montada.
+
+O modelo pode ser encontrado no sketchfab através do endereço - https://sketchfab.com/3d-models/silloth-plate-oct-2019-exploded-9ea83572eb24460381c6100f9458e774
+
+Veja o modelo Silloth plate ao vivo no Glitch: https://ihc-helmet.glitch.me
+
+### Silloth Plate
+![](https://imgur.com/F7tRuwU.png)
