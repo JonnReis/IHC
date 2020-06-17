@@ -48,7 +48,7 @@ Usamos um modelo 3D de uma placa de soleira desmontada. Neste modelo serão feit
 
 O modelo pode ser encontrado no sketchfab através do endereço - https://sketchfab.com/3d-models/silloth-plate-oct-2019-exploded-9ea83572eb24460381c6100f9458e774
 
-Veja o modelo Silloth plate ao vivo no Glitch: https://ihc-helmet.glitch.me
+Veja o modelo Silloth plate ao vivo no Glitch: https://ihc-sillothplate.glitch.me
 
 ### Silloth Plate
 ![](https://imgur.com/F7tRuwU.png)
