@@ -3,11 +3,11 @@
 Professor da Disciplina: Giuliano Bertoti 
 
 Equipe:
- - Fabrício Vasconcellos
- - Jonatas dos Reis 
- - RafaeL Ribeiro
- - Samuel Xavier
- - Vitor Amorim
+ - Fabrício Vasconcellos - RA: 1460481911095
+ - Jonatas dos Reis - RA: 1460481911101
+ - RafaeL Ribeiro - RA: 1460481911067
+ - Samuel Xavier - RA: 1460481911089
+ - Vitor Amorim - RA: 1460481911081
 
 ## 1ª Quinzena de maio
 
